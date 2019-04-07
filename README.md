@@ -7,7 +7,7 @@
 ## Usage
 
 To clone a GitHub repository, run the following command with the appropriate repository URL:
-```python
+```
 python replicate.py https://github.com/mkudija/clone-repo.git
 ```
 
